@@ -26,19 +26,8 @@
 
 \- バージョン管理
 
+## テスト環境
+- JUnit
+- Mockito
+- GitHub Actions
 
-
-\## テスト環境
-<<<<<<< HEAD
-
-\- JUnit
-
-\- Mockito
-
-\- GitHub Actions
-
-=======
-\- JUnit
-\- Mockito
-\- Github Actions
->>>>>>> origin/main
