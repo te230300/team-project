@@ -11,6 +11,7 @@
 \- rere893
 
 
+
 \## プロジェクト概要
 
 このプロジェクトはGitを使用したチーム開発を学ぶためのプロジェクトです。
@@ -27,11 +28,10 @@
 
 
 
+\## 開発環境
 
-\## テスト環境
+\- Git
 
-\- JUnit
+\- GitHub
 
-\- Mockito
-
-\- Github Actions
+\- Visual Studio Code
