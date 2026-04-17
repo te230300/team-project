@@ -26,8 +26,7 @@
 
 \- バージョン管理
 
-## テスト環境
-- JUnit
-- Mockito
-- GitHub Actions
-
+## 開発環境
+- Git
+- GitHub
+- Visual Studio Code
